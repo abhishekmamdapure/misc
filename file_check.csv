@@ -1,0 +1,101 @@
+,Unnamed: 0,sr_no,patient_name,first_name,last_name,age,dob,gender,house_number,street,landmark,area,district,city,state,pincode,patient_id,mobile_number_1,mobile_number_2,email_id,year,month,fiscal_year,service_accommodation_guidance,service_chemotherapy_information,service_diet_information,service_treatment_procedure_and_plan_information,service_dphr,service_documentation_assistance,service_financial_guidance,service_emergency_assistance,date_of_interaction,name_of_department_dmg
+1,1,2,Ganesh Dusad,Ganesh,Dusad,56,,Male,,,,,,,West Bengal,,CM03456,,,,2015,,2015-16,,Yes,,,,,,,2015-04-01,Gastro
+2,2,3,Ashok Dhage,Ashok,Dhage,55,,Male,,,,,,,Maharashtra,,CM08190,,,,2015,,2015-16,Yes,,,,,,,,2015-04-01,Gastro
+3,3,4,Sudarshan Khishrsagar,Sudarshan,Khishrsagar,45,,Male,,,,,,,Maharashtra,,CM09038,,,,2015,,2015-16,Yes,,,,,,,,2015-04-01,Gastro
+4,4,5,Ajay Kumar,Ajay,Kumar,37,,Male,,,,,,,Bihar,,CL28689,,,,2015,,2015-16,,,,,Yes,,,,2015-04-01,Gastro
+5,5,6,Chandresh Mishra,Chandresh,Mishra,37,,Male,,,,,,,Maharashtra,,CL26304,9702894234.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-01,Gastro
+6,6,7,Pramiladevi Singh,Pramiladevi,Singh,57,,Female,,,,,,,Bihar,,CM05105,9631428869.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-01,Gastro
+7,7,8,Dilipkumar Agarwal,Dilipkumar,Agarwal,50,,Male,,,,,,,Uttar Pradesh,,CM03727,,,,2015,,2015-16,,Yes,,,,,,,2015-04-01,Gastro
+8,8,9,Ameena Bibi,Ameena,Bibi,52,,Female,,,,,,,West Bengal,,CM07473,,,,2015,,2015-16,,Yes,,,,,,,2015-04-01,Gastro
+9,9,10,Subhash Rastogi,Subhash,Rastogi,62,,Male,,,,,,,Uttar Pradesh,,CM05448,,,,2015,,2015-16,,Yes,,,,,,,2015-04-01,Gastro
+10,10,11,Abhay Ray,Abhay,Ray,27,,Male,,,,,,,Bihar,,CL36190,8227860929.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-02,Gastro
+11,11,12,Rajendrakumar Shah,Rajendrakumar,Shah,53,,Male,,,,,,,Bihar,,CM06588,,,,2015,,2015-16,,Yes,,,,,,,2015-04-02,Gastro
+12,12,13,Ramharak Morya,Ramharak,Morya,19,,Male,,,,,,,Maharashtra,,CL36133,,,,2015,,2015-16,,Yes,,,,,,,2015-04-02,Gastro
+13,13,14,Chinta Yadav,Chinta,Yadav,35,,Female,,,,,,,Uttar Pradesh,,CL26327,8052227235.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-02,Gastro
+14,14,15,Kalavatidevi Gupta,Kalavatidevi,Gupta,54,,Female,,,,,,,Uttar Pradesh,,CM02473,8291095057.0,,,2015,,2015-16,,,,Yes,,,,,2015-04-02,Gastro
+15,15,16,,Sheeladevi,,58,,Female,,,,,,,Bihar,,CM03909,8539846684.0,,,2015,,2015-16,Yes,,,,,,,,2015-04-02,Gastro
+16,16,17,Laxman Pagar,Laxman,Pagar,66,,Male,,,,,,,Maharashtra,,CM06509,9892223154.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-02,Gastro
+17,17,18,Atmaram Mayekar,Atmaram,Mayekar,70,,Male,,,,,,,Maharashtra,,CL01223,,,,2015,,2015-16,,,,,Yes,,,,2015-04-02,Gastro
+18,18,19,Reema Chaurasiya,Reema,Chaurasiya,34,,Female,,,,,,,Maharashtra,,CM05375,9322672058.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-02,Gastro
+19,19,20,Koushal Gupta,Koushal,Gupta,53,,Male,,,,,,,Uttar Pradesh,,CL27390,9757347758.0,9721699098.0,,2015,,2015-16,Yes,,,,,,,,2015-04-06,Gastro
+20,20,21,Santradevi Seth,Santradevi,Seth,51,,Female,,,,,,,Uttar Pradesh,,CL37248,9918596592.0,,,2015,,2015-16,Yes,,,,,,,,2015-04-06,Gastro
+21,21,22,Nunumani Singh,Nunumani,Singh,64,,Male,,,,,,,Bihar,,CM03833,9931466021.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-06,Gastro
+22,22,23,Nabakumar Santra,Nabakumar,Santra,58,,Male,,,,,,,West Bengal,,CM06761,8942045230.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-06,Gastro
+23,23,24,Bipin Seth,Bipin,Seth,31,,Male,,,,,,,Odisha,,CL30352,9776105810.0,,,2015,,2015-16,,,,Yes,,,,,2015-04-07,Gastro
+24,24,25,Devendrakumar Sharma,Devendrakumar,Sharma,26,,Male,,,,,,,Madhya Pradesh,,CH12036,9584259371.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-07,Gastro
+25,25,26,Sonamani Devi,Sonamani,Devi,43,,Female,,,,,,,Bihar,,CM08521,9561618681.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-07,Gastro
+26,26,27,Shantabai Velkar,Shantabai,Velkar,69,,Female,,,,,,,Maharashtra,,CM08329,9901394030.0,,,2015,,2015-16,,,,,Yes,,,,2015-04-07,Gastro
+27,27,28,Bebi Sayyad,Bebi,Sayyad,44,,Female,,,,,,,Maharashtra,,CL30952,7875213053.0,,,2015,,2015-16,,,,,Yes,,,,2015-04-07,Gastro
+28,28,29,Anita Das,Anita,Das,45,,Female,,,,,,,Odisha,,CM02043,9438423699.0,,,2015,,2015-16,,,,,Yes,,,,2015-04-07,Gastro
+29,29,30,Sonamani Karmarkar,Sonamani,Karmarkar,43,,Female,,,,,,,Assam,,CM06242,8486393600.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-07,Gastro
+30,30,31,Sunaheri Devi,Sunaheri,Devi,62,,Female,,,,,,,Uttar Pradesh,,CL26779,9451040953.0,,,2015,,2015-16,,,,Yes,,,,,2015-04-07,Gastro
+31,31,32,Sharadabai Langote,Sharadabai,Langote,56,,Female,,,,,,,Maharashtra,,CL35067,9765140093.0,,,2015,,2015-16,,,,,,,Yes,,2015-04-07,Gastro
+32,32,33,Sunil Sharma,Sunil,Sharma,39,,Male,,,,,,,Rajasthan,,CK22126,9827853100.0,,,2015,,2015-16,,,,Yes,,,,,2015-04-07,Gastro
+33,33,34,Nanda Kadam,Nanda,Kadam,45,,Female,,,,,,,Maharashtra,,CM08365,8275060881.0,,,2015,,2015-16,,,,,,,Yes,,2015-04-07,Gastro
+34,34,35,Pushpa Kale,Pushpa,Kale,42,,Female,,,,,,,Maharashtra,,CL35074,7776940751.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-07,Gastro
+35,35,36,Manisha Malvankar,Manisha,Malvankar,60,,Female,,,,,Mumbai,Mumbai,Maharashtra,,CM08608,9029511141.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-08,Gastro
+36,36,37,Archana Kumari,Archana,Kumari,32,,Female,,,,,,,Bihar,,CL37412,9534302319.0,,,2015,,2015-16,Yes,,,,,,,,2015-04-08,Gastro
+37,37,38,Kalyani Jaiswal,Kalyani,Jaiswal,67,,Female,,,,,,,Uttar Pradesh,,CM08683,9860260554.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-08,Gastro
+38,38,39,Balaji Aglave,Balaji,Aglave,60,,Male,,,,,,,Maharashtra,,CL32266,,,,2015,,2015-16,,,,,Yes,,,,2015-04-08,Gastro
+39,39,40,Angammal pattamuthu,Angammal,pattamuthu,63,,Female,,,,,,,Tamil Nadu,,CM03213,9870261096.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+40,40,41,Kashinath Nadkarni,Kashinath,Nadkarni,54,,Male,,,,,Mumbai,Mumbai,Maharashtra,,CM08660,,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+41,41,42,Rama Bhil,Rama,Bhil,34,,Male,,,,,,,Maharashtra,,CM06188,9158760910.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+42,42,43,Mukund Gangawane,Mukund,Gangawane,55,,Male,,,,,Mumbai,Mumbai,Maharashtra,,CM08832,8082292282.0,,,2015,,2015-16,,,,Yes,,,,,2015-04-10,Gastro
+43,43,44,Jaywant Parab,Jaywant,Parab,58,,Male,,,,,Mumbai,Mumbai,Maharashtra,,CM09524,9892558174.0,9757403944.0,,2015,,2015-16,,,,,,,Yes,,2015-04-10,Gastro
+44,44,45,Jaganath Maitry,Jaganath,Maitry,27,,Male,,,,,,,Madhya Pradesh,,CL22312,9826332915.0,,,2015,,2015-16,,,,Yes,,,,,2015-04-10,Gastro
+45,45,46,Rajendra Prasad,Rajendra,Prasad,64,,Male,,,,,,,Bihar,,CK14175,8406890816.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+46,46,47,Sandip Verma,Sandip,Verma,37,,Male,,,,,,,Maharashtra,,CL36344,9325188984.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+47,47,48,Ajmirabegum Shek,Ajmirabegum,Shek,50,,Female,,,,,,,West Bengal,,CM08265,8001390596.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+48,48,49,Gayatri Devi,Gayatri,Devi,40,,Female,,,,,,,Bihar,,CL21799,9386950989.0,,,2015,,2015-16,,,,,Yes,,,,2015-04-10,Gastro
+49,49,50,Rakesh Thakur,Rakesh,Thakur,35,,Male,,,,,,,Bihar,,CK21127,8507702974.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+50,50,51,Mustafabhai Vakharia,Mustafabhai,Vakharia,35,,Male,,,,,,,Gujarat,,CM07164,9033218652.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+51,51,52,Alok Santoshi,Alok,Santoshi,51,,Male,,,,,,,Jharkhand,,CL35580,9431157961.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+52,52,53,Mainadevi Shukla,Mainadevi,Shukla,55,,Female,,,,,,,Uttar Pradesh,,CJ05389,9987251911.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+53,53,54,Satyawan Koli,Satyawan,Koli,45,,Male,,,,,,,Maharashtra,,CL12425,7666366107.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+54,54,55,Rupendra Patel,Rupendra,Patel,31,,Male,,,,,,,Chhattisgarh,,CM08324,7869040335.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+55,55,56,Ramkrit Patel,Ramkrit,Patel,35,,Male,,,,,,,Uttar Pradesh,,CM08571,9616105384.0,,,2015,,2015-16,,,,,Yes,,,,2015-04-10,Gastro
+56,56,57,Mukesh Gond,Mukesh,Gond,28,,Male,,,,,,,Uttar Pradesh,,CM08472,8052302845.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+57,57,58,Lalmani Upadhyay,Lalmani,Upadhyay,58,,Male,,,,,,,Uttar Pradesh,,CM09031,9870274698.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+58,58,59,Afzal Khan,Afzal,Khan,46,,Male,,,,,Mumbai,Mumbai,Maharashtra,,CM08430,7268843543.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+59,59,60,Bikash Gorai,Bikash,Gorai,27,,Male,,,,,,,West Bengal,,CL29207,,,,2015,,2015-16,,Yes,,,,,,,2015-04-10,Gastro
+60,60,61,Mushtaq Alam,Mushtaq,Alam,32,,Male,,,,,Mumbai,Mumbai,Maharashtra,,CL36253,8652694903.0,,,2015,,2015-16,,,,,,,Yes,,2015-04-13,Gastro
+61,61,62,Ankush Patil,Ankush,Patil,48,,Male,,,,,Mumbai,Mumbai,Maharashtra,,CL35084,9220312353.0,,,2015,,2015-16,,,,,Yes,,,,2015-04-13,Gastro
+62,62,63,Basudev Maity,Basudev,Maity,65,,Male,,,,,,,West Bengal,,CL33398,9833392443.0,,,2015,,2015-16,,,,,Yes,,,,2015-04-13,Gastro
+63,63,64,Vanita Naik,Vanita,Naik,55,,Female,,,,,Mumbai,Mumbai,Maharashtra,,CM07348,,,,2015,,2015-16,,,,,Yes,,,,2015-04-13,Gastro
+64,64,65,,Ramashish,,48,,Male,,,,,,,Chhattisgarh,,CL20999,7587445101.0,,,2015,,2015-16,,,,Yes,,,,,2015-04-13,Gastro
+65,65,66,Ushadevi Saw,Ushadevi,Saw,49,,Female,,,,,,,Bihar,,CM06527,9572142673.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-13,Gastro
+66,66,67,Mriganka Mahapatra,Mriganka,Mahapatra,45,,Male,,,,,,,West Bengal,,CL34490,9635307314.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-14,Gastro
+67,67,68,Ashok Jain,Ashok,Jain,46,,Male,,,,,,,Madhya Pradesh,,CM08797,9926712939.0,,,2015,,2015-16,,,,,,,Yes,,2015-04-14,Gastro
+68,68,69,Dattatray Khandagale,Dattatray,Khandagale,59,,Male,,,,,Mumbai,Mumbai,Maharashtra,,CM07010,9819565937.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-14,Gastro
+69,69,70,Anilkumar Chaudhary,Anilkumar,Chaudhary,40,,Male,,,,,,,Bihar,,CL34089,9955421922.0,,,2015,,2015-16,,,,,Yes,,,,2015-04-14,Gastro
+70,70,71,Sabita Bapari,Sabita,Bapari,59,,Female,,,,,,,West Bengal,,CM06993,8001053209.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-14,Gastro
+71,71,72,Parvati Patil,Parvati,Patil,70,,Female,,,,,,,Maharashtra,,CM09439,9870175920.0,,,2015,,2015-16,,,,Yes,,,,,2015-04-14,Gastro
+72,72,73,Sunitadevi Mishra,Sunitadevi,Mishra,65,,Female,,,,,,,Bihar,,CL16471,8793762908.0,,,2015,,2015-16,,,,Yes,,,,,2015-04-15,Gastro
+73,73,74,Kashinath Madhavi,Kashinath,Madhavi,59,,Male,,,,,,,Maharashtra,,CM00230,9320283079.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-15,Gastro
+74,74,75,Panad Krushna,Panad,Krushna,43,,Male,,,,,,,Odisha,,CM09414,9175993244.0,,,2015,,2015-16,,,,,Yes,,,,2015-04-15,Gastro
+75,75,76,Shakuntala yadav,Shakuntala,yadav,58,,Female,,,,,Mumbai,Mumbai,Maharashtra,,CL30974,9987475504.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-15,Gastro
+76,76,77,Leelawati Rakhte,Leelawati,Rakhte,62,,Female,,,,,,,Maharashtra,,CJ12324,9321213040.0,,,2015,,2015-16,,,,Yes,,,,,2015-04-15,Gastro
+77,77,78,Naresh Sheelsharma,Naresh,Sheelsharma,57,,Male,,,,,Mumbai,Mumbai,Maharashtra,,CM09607,9967778410.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-15,Gastro
+78,78,79,Sakaldev Mahato,Sakaldev,Mahato,46,,Male,,,,,,,Jharkhand,,CM03172,9167538182.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-15,Gastro
+79,79,80,Phuleshwar Mondal,Phuleshwar,Mondal,74,,Male,,,,,,,Bihar,,CM09355,9934843253.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-17,Gastro
+80,80,81,Ashok Das,Ashok,Das,27,,Male,,,,,,,West Bengal,,CL31147,9635213552.0,9867888647.0,,2015,,2015-16,,,,,,,Yes,,2015-04-17,Gastro
+81,81,82,Raj Yadav,Raj,Yadav,45,,Male,,,,,,,Uttar Pradesh,,CK05397,9967324694.0,,,2015,,2015-16,,,,Yes,,,,,2015-04-17,Gastro
+82,82,83,Podal Rao,Podal,Rao,46,,Male,,,,,,,Odisha,,CL27808,9938077987.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-17,Gastro
+83,83,84,Gajanan Khatkar,Gajanan,Khatkar,57,,Male,,,,,,,Maharashtra,,CL26367,9823423032.0,,,2015,,2015-16,,,,,Yes,,,,2015-04-17,Gastro
+84,84,85,Taradevi Singh,Taradevi,Singh,59,,Female,,,,,,,Bihar,,CM08416,9931230345.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-17,Gastro
+85,85,86,Vasant Patil,Vasant,Patil,70,,Male,,,,,,,Maharashtra,,CM05050,9011438973.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-17,Gastro
+86,86,87,Bikashsen Gupta,Bikashsen,Gupta,38,,Male,,,,,,,West Bengal,,CL35654,9800216256.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-17,Gastro
+87,87,88,Sateyndrakumar Singh,Sateyndrakumar,Singh,36,,Female,,,,,,,Bihar,,CM09463,9470404925.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-17,Gastro
+88,88,89,Zarina Ansari,Zarina,Ansari,54,,Female,,,,,,,Uttar Pradesh,,CL34240,9451654781.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-17,Gastro
+89,89,90,Nandkishor Vishwakarma,Nandkishor,Vishwakarma,43,,Male,,,,,,,Jharkhand,,CK20894,8873385957.0,,,2015,,2015-16,,,,Yes,,,,,2015-04-20,Gastro
+90,90,91,Dinesh Samnta,Dinesh,Samnta,36,,Male,,,,,,,West Bengal,,CM09676,8967608397.0,9322529443.0,,2015,,2015-16,,Yes,,,,,,,2015-04-20,Gastro
+91,91,92,Niranjan Bhaumik,Niranjan,Bhaumik,55,,Male,,,,,,,West Bengal,,CM01122,8451987259.0,,,2015,,2015-16,,,,,Yes,,,,2015-04-20,Gastro
+92,92,93,Yashoda Devi,Yashoda,Devi,56,,Female,,,,,,,Jharkhand,,CM08543,9860898489.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-20,Gastro
+93,93,94,Pushpa Sharma,Pushpa,Sharma,39,,Female,,,,,,,Uttar Pradesh,,CM02314,9956158488.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-20,Gastro
+94,94,95,Nandlal Jaiswal,Nandlal,Jaiswal,41,,Male,,,,,,,Uttar Pradesh,,CE14077,8726617705.0,8976779471.0,,2015,,2015-16,,Yes,,,,,,,2015-04-20,Gastro
+95,95,96,Harekrishna yadav,Harekrishna,yadav,54,,Male,,,,,,,Bihar,,CM09928,9955527754.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-20,Gastro
+96,96,97,Kirandevi Tiwari,Kirandevi,Tiwari,45,,Female,,,,,,,Bihar,,CM09420,7033681370.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-20,Gastro
+97,97,98,Utpal Barman,Utpal,Barman,48,,Male,,,,,,,West Bengal,,CK17243,9434184806.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-20,Gastro
+98,98,99,,Sunitadevi,,40,,Female,,,,,,,Bihar,,CL24865,9833826090.0,,,2015,,2015-16,,,,,Yes,,,,2015-04-20,Gastro
+99,99,100,Nandlal Shah,Nandlal,Shah,51,,Male,,,,,,,Madhya Pradesh,,CL32645,9669166650.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-20,Gastro
+100,100,101,Siyapati Devi,Siyapati,Devi,53,,Female,,,,,,,Uttar Pradesh,,CK04916,9721657494.0,,,2015,,2015-16,,Yes,,,,,,,2015-04-20,Gastro
